@@ -111,17 +111,17 @@ hr {
 }
 
 .links .links_first {
-  border-bottom: 3px solid #80d6ff;
-  box-shadow: inset 0 -4px 0 #80d6ff;
-  border: 2px solid #80d6ff;
-  background-color: #80d6ff;
+  border-bottom: 3px solid #f9d3a1;
+  box-shadow: inset 0 -4px 0 #f9d3a1;
+  border: 2px solid #f9d3a1;
+  background-color: #f9d3a1;
 }
 
 .links .links_second {
-  border-bottom: 3px solid #ffa093;
-  box-shadow: inset 0 -4px 0 #ffa093;
-  border: 2px solid #ffa093;
-  background-color: #ffa093;
+  border-bottom: 3px solid #e1e599;
+  box-shadow: inset 0 -4px 0 #e1e599;
+  border: 2px solid #e1e599;
+  background-color: #e1e599;
 }
 
 .links .links_third {
