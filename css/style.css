@@ -76,31 +76,30 @@ hr {
 
 .links .links_first {
   border-bottom: 3px solid #7ca579;
-  box-shadow: inset 0 -4px 0 #f2d589;
+  box-shadow: inset 0 -4px 0 #7ca579;
   border: 2px solid #7ca579;
   background-color: #7ca579;
 }
 
 .links .links_second {
-  border-bottom: 3px solid #f2d589;
+  border-bottom: 3px solid #7ca579;
   box-shadow: inset 0 -4px 0 #7ca579;
-  border: 2px solid #f2d589;
-  background-color: #f2d589;
+  border: 2px solid #7ca579;
+  background-color: #7ca579;
 }
 
 .links .links_third {
-  border-bottom: 3px solid #bedde8;
-  box-shadow: inset 0 -4px 0 #bedde8;
-
-  border: 2px solid #bedde8;
-  background-color: #bedde8;
+  border-bottom: 3px solid #7ca579;
+  box-shadow: inset 0 -4px 0 #7ca579;
+  border: 2px solid #7ca579;
+  background-color: #7ca579;
 }
 
 .links .links_fourth {
-  box-shadow: inset 0 -4px 0 #73e2a7;
-
-  border: 2px solid #73e2a7;
-  background-color: #73e2a7;
+  border-bottom: 3px solid #7ca579;
+  box-shadow: inset 0 -4px 0 #7ca579;
+  border: 2px solid #7ca579;
+  background-color: #7ca579;
 }
 
 .links .links_fifth {
