@@ -46,8 +46,7 @@ hr {
 /**********CLASS SELECTORS**********/
 
 .logo {
-  width: 250px;
-  height: 250px;
+  width: 25%;
   display: block;
   margin: 35px auto;
   border-radius: 0%;
