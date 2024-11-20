@@ -20,7 +20,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Inter", sans-serif;
   max-width: 100%;
   min-height: 100vh;
   height: auto;
@@ -46,8 +46,8 @@ hr {
 /**********CLASS SELECTORS**********/
 
 .logo {
-  width: 260px;
-  height: 135px;
+  width: 250px;
+  height: 250px;
   display: block;
   margin: 35px auto;
   border-radius: 0%;
@@ -76,17 +76,17 @@ hr {
   
 
 .links .links_first {
-  border-bottom: 3px solid #f9d3a1;
-  box-shadow: inset 0 -4px 0 #f9d3a1;
-  border: 2px solid #f9d3a1;
-  background-color: #f9d3a1;
+  border-bottom: 3px solid #7ca579;
+  box-shadow: inset 0 -4px 0 #7ca579;
+  border: 2px solid #7ca579;
+  background-color: #7ca579;
 }
 
 .links .links_second {
-  border-bottom: 3px solid #e1e599;
-  box-shadow: inset 0 -4px 0 #e1e599;
-  border: 2px solid #e1e599;
-  background-color: #e1e599;
+  border-bottom: 3px solid #2b523a;
+  box-shadow: inset 0 -4px 0 #2b523a;
+  border: 2px solid #2b523a;
+  background-color: #2b523a;
 }
 
 .links .links_third {
@@ -134,7 +134,7 @@ hr {
 /*
 
 #heading {
-  color: blue
+  color: black
 }
 
 */
